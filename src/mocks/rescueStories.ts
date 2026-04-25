@@ -1,0 +1,38 @@
+export const rescueStories = [
+  {
+    id: 1,
+    name: 'Biscuit',
+    shelter: 'Sunridge Animal Rescue, TX',
+    story: 'Found abandoned in a parking lot during a heatwave, Biscuit was barely breathing when volunteers arrived. Three months later, he\'s the happiest dog in Austin — and proof that love is the best medicine.',
+    image: 'https://readdy.ai/api/search-image?query=An%20adorable%20golden%20retriever%20puppy%20with%20warm%20amber%20fur%20sitting%20on%20a%20soft%20cream%20blanket%20in%20natural%20sunlight%2C%20looking%20directly%20at%20camera%20with%20bright%20hopeful%20eyes%2C%20clean%20white%20background%2C%20professional%20pet%20photography%2C%20warm%20and%20tender%20mood%2C%20shallow%20depth%20of%20field&width=600&height=700&seq=story001&orientation=portrait',
+    tag: 'Adopted',
+    tagColor: 'bg-emerald-100 text-emerald-700',
+  },
+  {
+    id: 2,
+    name: 'Luna',
+    shelter: 'Coastal Paws Rescue, CA',
+    story: 'Luna was surrendered by a family who could no longer afford her care. She spent 8 months in the shelter before our community campaign found her a forever home with a retired teacher in San Diego.',
+    image: 'https://readdy.ai/api/search-image?query=A%20beautiful%20black%20and%20white%20border%20collie%20dog%20with%20soulful%20eyes%20sitting%20gracefully%20in%20soft%20natural%20light%2C%20warm%20cream%20background%2C%20professional%20lifestyle%20pet%20photography%2C%20elegant%20and%20gentle%20expression%2C%20shallow%20depth%20of%20field%2C%20hopeful%20mood&width=600&height=700&seq=story002&orientation=portrait',
+    tag: 'Adopted',
+    tagColor: 'bg-emerald-100 text-emerald-700',
+  },
+  {
+    id: 3,
+    name: 'Mango',
+    shelter: 'Second Chance Cats, NY',
+    story: 'Mango was rescued from a hoarding situation with 40 other cats. Malnourished and terrified of humans, she took six weeks to trust a single volunteer. Today she greets every visitor at the shelter door.',
+    image: 'https://readdy.ai/api/search-image?query=A%20fluffy%20orange%20tabby%20cat%20with%20bright%20amber%20eyes%20resting%20on%20a%20soft%20warm%20blanket%2C%20natural%20window%20light%2C%20clean%20cream%20background%2C%20professional%20pet%20photography%2C%20warm%20and%20cozy%20mood%2C%20gentle%20expression%2C%20shallow%20depth%20of%20field&width=600&height=700&seq=story003&orientation=portrait',
+    tag: 'In Care',
+    tagColor: 'bg-amber-100 text-amber-700',
+  },
+  {
+    id: 4,
+    name: 'Duke',
+    shelter: 'Heartland Animal Haven, IL',
+    story: 'A former working dog left behind when his owner passed away, Duke arrived at the shelter confused and grieving. A local veteran adopted him — and both of them found exactly what they needed.',
+    image: 'https://readdy.ai/api/search-image?query=A%20noble%20German%20shepherd%20dog%20with%20warm%20brown%20eyes%20sitting%20proudly%20in%20soft%20golden%20afternoon%20light%2C%20clean%20warm%20beige%20background%2C%20professional%20pet%20photography%2C%20dignified%20and%20gentle%20expression%2C%20shallow%20depth%20of%20field%2C%20hopeful%20mood&width=600&height=700&seq=story004&orientation=portrait',
+    tag: 'Adopted',
+    tagColor: 'bg-emerald-100 text-emerald-700',
+  },
+];
